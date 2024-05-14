@@ -17,3 +17,20 @@
 
 <h2>Level 2</h2>
 
+<p align="center">
+  <img src="">
+</p>
+<p align="center">
+  <img src="">
+</p>
+<p align="center">
+  <img src="">
+</p>
+<p align="center">
+  <img src="">
+</p>
+
+![Screenshot 2024-05-14 at 2 26 49 PM](https://github.com/bensadel/Google-XSS-Game/assets/95494769/0db81d38-74fa-41b3-9bff-ef5eb0deed94)
+![Screenshot 2024-05-14 at 2 26 57 PM](https://github.com/bensadel/Google-XSS-Game/assets/95494769/f9828f72-b4a9-426f-a43f-badcc14f0fbf)
+![Screenshot 2024-05-14 at 2 27 21 PM](https://github.com/bensadel/Google-XSS-Game/assets/95494769/7f980ae4-c7a8-4bdc-a6ee-c488e4b74573)
+![Screenshot 2024-05-14 at 2 27 32 PM](https://github.com/bensadel/Google-XSS-Game/assets/95494769/f5787cf9-3e05-4431-b723-342493a8c876)
