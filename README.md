@@ -15,3 +15,5 @@
   <img src="https://github.com/bensadel/Google-XSS-Game/assets/95494769/f9adaafc-44aa-49f4-8398-2cd962b7c37a">
 </p>
 
+<h2>Level 2</h2>
+
