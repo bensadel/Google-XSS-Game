@@ -74,6 +74,7 @@
 <p align="center">
   <img src="">
 </p>
+
 ![Screenshot 2024-05-14 at 4 25 50 PM](https://github.com/bensadel/Google-XSS-Game/assets/95494769/37dcfb2a-3536-4694-8687-26de5c1e4893)
 ![Screenshot 2024-05-14 at 4 25 53 PM](https://github.com/bensadel/Google-XSS-Game/assets/95494769/37db782b-7591-4935-b080-c33285401ee8)
 ![Screenshot 2024-05-14 at 4 26 01 PM](https://github.com/bensadel/Google-XSS-Game/assets/95494769/70977b39-2aac-4b43-a29f-32a61c2eab09)
