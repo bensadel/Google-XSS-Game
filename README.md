@@ -39,24 +39,19 @@
   <img src="https://github.com/bensadel/Google-XSS-Game/assets/95494769/e73e8372-a1a3-4117-b77f-7ccd1d77a700">
 </p>
 <p align="center">
-  <img src="">
+  <img src="https://github.com/bensadel/Google-XSS-Game/assets/95494769/6268d901-8519-48fe-8650-32089f981a32">
 </p>
 <p align="center">
-  <img src="">
+  <img src="https://github.com/bensadel/Google-XSS-Game/assets/95494769/6f8c90ab-2ca9-4c28-ac9b-52ce28de0030">
 </p>
 <p align="center">
-  <img src="">
+  <img src="https://github.com/bensadel/Google-XSS-Game/assets/95494769/20388d76-d824-4002-9c8f-2b35054e70d8">
 </p>
 <p align="center">
-  <img src="">
+  <img src="https://github.com/bensadel/Google-XSS-Game/assets/95494769/edcfefc1-cce7-4895-81c0-4ba522d77de4">
 </p>
 <p align="center">
-  <img src="">
+  <img src="https://github.com/bensadel/Google-XSS-Game/assets/95494769/b5e7e8f8-78dc-4807-9a67-e9f5d80d81ac">
 </p>
 
-![Screenshot 2024-05-14 at 2 34 53 PM](https://github.com/bensadel/Google-XSS-Game/assets/95494769/6268d901-8519-48fe-8650-32089f981a32)
-![Screenshot 2024-05-14 at 2 34 55 PM](https://github.com/bensadel/Google-XSS-Game/assets/95494769/6f8c90ab-2ca9-4c28-ac9b-52ce28de0030)
-![Screenshot 2024-05-14 at 2 35 49 PM](https://github.com/bensadel/Google-XSS-Game/assets/95494769/20388d76-d824-4002-9c8f-2b35054e70d8)
-![Screenshot 2024-05-14 at 2 36 33 PM](https://github.com/bensadel/Google-XSS-Game/assets/95494769/edcfefc1-cce7-4895-81c0-4ba522d77de4)
-![Screenshot 2024-05-14 at 2 36 43 PM](https://github.com/bensadel/Google-XSS-Game/assets/95494769/b5e7e8f8-78dc-4807-9a67-e9f5d80d81ac)
 
