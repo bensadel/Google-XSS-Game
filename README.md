@@ -15,6 +15,8 @@
   <img src="https://github.com/bensadel/Google-XSS-Game/assets/95494769/f9adaafc-44aa-49f4-8398-2cd962b7c37a">
 </p>
 
+<br>
+
 <h2>Level 2</h2>
 
 <p align="center">
@@ -32,6 +34,8 @@
 <p align="center">
   <img src="https://github.com/bensadel/Google-XSS-Game/assets/95494769/f5787cf9-3e05-4431-b723-342493a8c876">
 </p>
+
+<br>
 
 <h2>Level 3</h2>
 
@@ -54,6 +58,8 @@
   <img src="https://github.com/bensadel/Google-XSS-Game/assets/95494769/b5e7e8f8-78dc-4807-9a67-e9f5d80d81ac">
 </p>
 
+<br>
+
 <h2>Level 4</h2>
 
 <p align="center">
@@ -75,6 +81,8 @@
   <img src="https://github.com/bensadel/Google-XSS-Game/assets/95494769/d3fbb879-ad96-4c94-bfd2-d7d24d39597d">
 </p>
 
+<br>
+
 <h2>Level 5</h2>
 
 <p align="center">
@@ -95,6 +103,8 @@
 <p align="center">
   <img src="https://github.com/bensadel/Google-XSS-Game/assets/95494769/901f07fa-79a2-448a-bf9a-255fb75cae18">
 </p>
+
+<br>
 
 <h2>Level 6</h2>
 
