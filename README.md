@@ -1,5 +1,7 @@
 # Google-XSS-Game
 
+Game Available at https://xss-game.appspot.com/
+
 <h2>Level 1</h2>
 
 <p align="center">
