@@ -26,16 +26,16 @@ The goal of Level 1 is to trigger a pop-up JavaScript alert() within the frame. 
 <h2>Level 2</h2>
 
 <p align="center">
-  <img src="https://github.com/bensadel/Google-XSS-Game/assets/95494769/0db81d38-74fa-41b3-9bff-ef5eb0deed94">
+  <img src="https://github.com/bensadel/Google-XSS-Game/assets/95494769/6ff37456-bc12-4f2c-92e8-eebbfe36fae1">
 </p>
 <p align="center">
-  <img src="https://github.com/bensadel/Google-XSS-Game/assets/95494769/f9828f72-b4a9-426f-a43f-badcc14f0fbf">
+  <img src="https://github.com/bensadel/Google-XSS-Game/assets/95494769/7bdf5be3-d67d-4d98-adb3-bcb4736f8d0e">
 </p>
 <p align="center">
-  <img src="https://github.com/bensadel/Google-XSS-Game/assets/95494769/7f980ae4-c7a8-4bdc-a6ee-c488e4b74573">
+  <img src="https://github.com/bensadel/Google-XSS-Game/assets/95494769/288ca868-3e94-45d9-bbde-3be151fe4d56">
 </p>
 <p align="center">
-  <img src="https://github.com/bensadel/Google-XSS-Game/assets/95494769/d2aa558c-a2cf-4cc6-a40d-e564bf839091">
+  <img src="https://github.com/bensadel/Google-XSS-Game/assets/95494769/acb35f54-62a0-4a04-862d-221fba17a635">
 </p>
 <p align="center">
   <img src="https://github.com/bensadel/Google-XSS-Game/assets/95494769/f5787cf9-3e05-4431-b723-342493a8c876">
