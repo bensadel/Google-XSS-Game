@@ -19,7 +19,7 @@ Game Available at https://xss-game.appspot.com/
 
 <br>
 
-The goal of Level 1 is to trigger a pop-up JavaScript alert() within the frame. This can be achieved using a reflected cross-site scripting (XSS) attack. When you click the search button, a results page appears, with the query reflected in the URL. Using Google Chrome Developer Tools, you can see that there is no data validation on the search query input. This lack of validation allows you to inject a script tag with an alert function, successfully executing the XSS attack.
+The goal of Level 1 is to trigger a pop-up JavaScript alert() within the frame. This can be achieved using a reflected cross-site scripting (XSS) attack. When you click the search button, a results page appears, with the query reflected in the URL. Using Google Chrome Developer Tools, you can see that there is no data sanitization on the search query input. This lack of sanitization allows you to inject a script tag with an alert function, successfully executing the XSS attack.
 
 <br>
 
@@ -40,6 +40,10 @@ The goal of Level 1 is to trigger a pop-up JavaScript alert() within the frame. 
 <p align="center">
   <img src="https://github.com/bensadel/Google-XSS-Game/assets/95494769/f5787cf9-3e05-4431-b723-342493a8c876">
 </p>
+
+<br>
+
+The goal of Level 2 is to trigger a pop-up JavaScript alert() within the frame. This can be achieved using an img tag with an onerror attribute. When you click the "Share Status!" button, the post undergoes data sanitization, which removes any script tags. Therefore, an img tag with the onerror attribute is another way to trigger the alert.
 
 <br>
 
