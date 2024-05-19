@@ -19,6 +19,10 @@ Game Available at https://xss-game.appspot.com/
 
 <br>
 
+
+
+<br>
+
 <h2>Level 2</h2>
 
 <p align="center">
