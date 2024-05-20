@@ -79,7 +79,7 @@ The goal of Level 2 is to trigger a pop-up JavaScript alert() within the frame. 
 
 <br>
 
-The goal of Level 3 is to trigger a pop-up JavaScript alert() within the frame. This can be achieved by manually editing the address in the URL bar. The behavior of the URL bar changed based on what image is selected. If the URL address is edited so that a number outside of 1, 2, or 3 is inputted, a blank screen will show. Additionally, if any text besides an integar is input, Image NaN is returned. Hence, the only way to inject a script is by using an apostrophe(') symbol after the pound(#) symbol.
+The goal of Level 3 is to trigger a JavaScript alert() pop-up within the frame. This can be achieved by manually editing the URL in the address bar. The behavior of the URL changes based on the selected image. If a number outside of 1, 2, or 3 is entered, a blank screen appears. If any text other than an integer is input, "Image NaN" is returned. Therefore, the only way to inject a script is by using an apostrophe (') after the pound (#) symbol. Injecting a script tag won't work, so another way to trigger an alert is by using the onerror attribute.
 
 <br>
 
