@@ -68,11 +68,18 @@ The goal of Level 2 is to trigger a pop-up JavaScript alert() within the frame. 
   <img src="https://github.com/bensadel/Google-XSS-Game/assets/95494769/20388d76-d824-4002-9c8f-2b35054e70d8">
 </p>
 <p align="center">
+  <img src="https://github.com/bensadel/Google-XSS-Game/assets/95494769/d927ef0c-902d-48df-bb77-58af441cb283">
+</p>
+<p align="center">
   <img src="https://github.com/bensadel/Google-XSS-Game/assets/95494769/edcfefc1-cce7-4895-81c0-4ba522d77de4">
 </p>
 <p align="center">
   <img src="https://github.com/bensadel/Google-XSS-Game/assets/95494769/b5e7e8f8-78dc-4807-9a67-e9f5d80d81ac">
 </p>
+
+<br>
+
+The goal of Level 3 is to trigger a pop-up JavaScript alert() within the frame. This can be achieved by manually editing the address in the URL bar. The behavior of the URL bar changed based on what image is selected. If the URL address is edited so that a number outside of 1, 2, or 3 is inputted, a blank screen will show. Additionally, if any text besides an integar is input, Image NaN is returned. Hence, the only way to inject a script is by using an apostrophe(') symbol after the pound(#) symbol.
 
 <br>
 
