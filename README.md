@@ -95,16 +95,16 @@ The goal of Level 3 is to trigger a JavaScript alert() pop-up within the frame. 
   <img src="https://github.com/bensadel/Google-XSS-Game/assets/95494769/70977b39-2aac-4b43-a29f-32a61c2eab09">
 </p>
 <p align="center">
-  <img src="">
+  <img src="https://github.com/bensadel/Google-XSS-Game/assets/95494769/13fca794-64a1-42e2-ab4d-01f717e6ca2b">
 </p>
 <p align="center">
-  <img src="">
+  <img src="https://github.com/bensadel/Google-XSS-Game/assets/95494769/db2b98b0-8409-48fd-918a-0391ece77afa">
 </p>
 <p align="center">
-  <img src="">
+  <img src="https://github.com/bensadel/Google-XSS-Game/assets/95494769/6bd80389-e8df-4c69-a75a-2226ac9c095c">
 </p>
 <p align="center">
-  <img src="">
+  <img src="https://github.com/bensadel/Google-XSS-Game/assets/95494769/93d32e76-747c-4cfc-a93a-0e1905aaecc6">
 </p>
 <p align="center">
   <img src="https://github.com/bensadel/Google-XSS-Game/assets/95494769/50c2b83c-1bc6-405a-a26b-38ddc553a872">
