@@ -145,6 +145,10 @@ The goal of Level 4 is to trigger a JavaScript alert() in the application. This 
 
 <br>
 
+The goal of Level 5 is to trigger a JavaScript alert() in the application. This can be achieved by observing the Google Chrome Developer Tools and URL address. Every time the Sign Up button is clicked, a page appears with an email form and a next button. In the URL, the next query parameter can be seen after the signup
+
+<br>
+
 <h2>Level 6</h2>
 
 <p align="center">
