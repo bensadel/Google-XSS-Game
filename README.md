@@ -106,6 +106,10 @@ The goal of Level 3 is to trigger a JavaScript alert() pop-up within the frame. 
 
 <br>
 
+The goal of Level 4 is to trigger a JavaScript alert() in the application. This can be achieved by observing the Google Chrome Developer Tools network tab. Every time a timer is created, a GET request is initiated, followed by a loading screen. Once the timer is finished, the "Create Timer" window appears. An apostrophe won't work due to HTML encoding, but parentheses and semicolons do work. Therefore, an alert script can be constructed and triggered by progressively testing which characters are HTML encoded.
+
+<br>
+
 <h2>Level 5</h2>
 
 <p align="center">
