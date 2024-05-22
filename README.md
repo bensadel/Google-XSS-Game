@@ -162,11 +162,19 @@ By inspecting the Next button, you can see that it is within an a href tag. Addi
   <img src="https://github.com/bensadel/Google-XSS-Game/assets/95494769/e782f4a1-09a8-4e0c-8bff-aba6d6313a7b">
 </p>
 <p align="center">
+  <img src="https://github.com/bensadel/Google-XSS-Game/assets/95494769/80ff56a8-6704-4711-bfd8-e023393ded33">
+</p>
+<p align="center">
   <img src="https://github.com/bensadel/Google-XSS-Game/assets/95494769/da5c26b0-9b96-4300-8f16-2105841613fd">
 </p>
 <p align="center">
   <img src="https://github.com/bensadel/Google-XSS-Game/assets/95494769/1a0de95f-37ee-4304-9e0c-c479a8d9cbb6">
 </p>
+
+<br>
+
+The goal of Level 6 is to find a way to make the application request an external file, which will cause it to execute an alert(). This can be achieved using the Google Chrome Developer Tools and the Data URI scheme. In the Google Chrome Developer Tools, the webpage has a script tag with a regular expression that inhibits HTTP or HTTPS schemes. Another scheme is the Data URI scheme, which instructs a browser to treat data as the specified MIME type. In this example, the browser is treating the data as plaintext data. After specifying the data, the alert() code can be inserted at the end of the statement. The browser will interpret the alert() as JavaScript code and execute.
+
 
 
 
