@@ -151,7 +151,8 @@ The goal of Level 4 is to trigger a JavaScript alert() in the application. This 
 
 <br>
 
-The goal of Level 5 is to trigger a JavaScript alert() in the application. This can be achieved by observing the Google Chrome Developer Tools and URL address. Every time the Sign Up button is clicked, a page appears with an email form and a Next button. By clicking the Next button, a new screen appears. Upon further inspection, the Next button is in an <a href> tag. Additionally, if the URL is changed, you can see that no data sanitization is done. Therefore the <a href> poses as a vulnerability that can be exploited by using a JavaScript pseudo-scheme to inject an alert script directly in the URL bar.
+The goal of Level 5 is to trigger a JavaScript alert() in the application. This can be achieved by closely observing the Google Chrome Developer Tools and the URL address. When the Sign-Up button is clicked, a page with an email form and a Next button appears. Clicking the Next button takes you to a new screen.
+By inspecting the Next button, you can see that it is within an a href tag. Additionally, changing the URL reveals that no data sanitization is performed. This lack of sanitization makes the a href attribute a potential vulnerability. By using a JavaScript pseudo-scheme, you can inject an alert script directly into the URL bar, exploiting this vulnerability.
 
 <br>
 
