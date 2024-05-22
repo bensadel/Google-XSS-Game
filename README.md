@@ -11,9 +11,6 @@ Game Available at https://xss-game.appspot.com/
   <img src="https://github.com/bensadel/Google-XSS-Game/assets/95494769/8c6c6029-280a-46d8-becd-a6a8cda3483e">
 </p>
 <p align="center">
-  <img src="">
-</p>
-<p align="center">
   <img src="https://github.com/bensadel/Google-XSS-Game/assets/95494769/e7501a3d-a14e-4cb1-9380-cc6326d0df58">
 </p>
 <p align="center">
@@ -96,6 +93,18 @@ The goal of Level 3 is to trigger a JavaScript alert() pop-up within the frame. 
 </p>
 <p align="center">
   <img src="https://github.com/bensadel/Google-XSS-Game/assets/95494769/70977b39-2aac-4b43-a29f-32a61c2eab09">
+</p>
+<p align="center">
+  <img src="">
+</p>
+<p align="center">
+  <img src="">
+</p>
+<p align="center">
+  <img src="">
+</p>
+<p align="center">
+  <img src="">
 </p>
 <p align="center">
   <img src="https://github.com/bensadel/Google-XSS-Game/assets/95494769/50c2b83c-1bc6-405a-a26b-38ddc553a872">
