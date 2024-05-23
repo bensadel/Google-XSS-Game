@@ -175,6 +175,8 @@ By inspecting the Next button, you can see that it is within an a href tag. Addi
 
 The goal of Level 6 is to find a way to make the application request an external file, which will cause it to execute an alert(). This can be achieved using the Google Chrome Developer Tools and the Data URI scheme. In the Google Chrome Developer Tools, the webpage has a script tag with a regular expression that inhibits HTTP or HTTPS schemes. Another scheme is the Data URI scheme, which instructs a browser to treat data as the specified MIME type. In this example, the browser is treating the data as plaintext data. After specifying the data, the alert() code can be inserted at the end of the statement. The browser will interpret the alert() as JavaScript code and execute.
 
+<br>
+
 
 
 
