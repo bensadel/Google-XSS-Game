@@ -1,4 +1,4 @@
-# Google-XSS-Game-Walkthrough
+# Google-XSS-Game-Step-by-Step
 
 Game Available at https://xss-game.appspot.com/
 
