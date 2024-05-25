@@ -1,4 +1,4 @@
-# Google-XSS-Game
+# Google-XSS-Game-Pen-Test-Report
 
 Game Available at https://xss-game.appspot.com/
 
